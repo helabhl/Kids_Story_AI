@@ -1,0 +1,1300 @@
+[{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f7c"
+  },
+  "user_id": "USER_0001",
+  "age": 4,
+  "age_range": "3-5 years",
+  "preferred_genres": "family|educational|fantasy|fairy tales",
+  "preferred_characters": "superheroes|wizards|pirates",
+  "preferred_emotions": "gentle|curious|funny",
+  "preferred_reading_time": "short",
+  "reading_time_min": 3,
+  "reading_time_max": 5,
+  "stories_per_week": 8,
+  "activity_level": "medium",
+  "prefers_illustrations": false,
+  "prefers_interactive_questions": true,
+  "registration_date": {
+    "$date": "2025-05-22T00:00:00.000Z"
+  },
+  "favorite_genre": "family",
+  "total_likes": 70,
+  "total_completed": 102,
+  "total_stories_read": 134,
+  "total_reading_time_minutes": 471
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f7d"
+  },
+  "user_id": "USER_0002",
+  "age": 5,
+  "age_range": "3-5 years",
+  "preferred_genres": "adventure|science fiction",
+  "preferred_characters": "fairies|knights|children",
+  "preferred_emotions": "curious|brave|funny",
+  "preferred_reading_time": "medium",
+  "reading_time_min": 5,
+  "reading_time_max": 7,
+  "stories_per_week": 15,
+  "activity_level": "high",
+  "prefers_illustrations": true,
+  "prefers_interactive_questions": true,
+  "registration_date": {
+    "$date": "2025-06-30T00:00:00.000Z"
+  },
+  "favorite_genre": "adventure",
+  "total_likes": 70,
+  "total_completed": 120,
+  "total_stories_read": 133,
+  "total_reading_time_minutes": 767
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f7e"
+  },
+  "user_id": "USER_0003",
+  "age": 5,
+  "age_range": "3-5 years",
+  "preferred_genres": "adventure|animals",
+  "preferred_characters": "wizards|talking objects|pirates|unicorns",
+  "preferred_emotions": "inspiring|brave|silly",
+  "preferred_reading_time": "short",
+  "reading_time_min": 3,
+  "reading_time_max": 5,
+  "stories_per_week": 9,
+  "activity_level": "high",
+  "prefers_illustrations": true,
+  "prefers_interactive_questions": true,
+  "registration_date": {
+    "$date": "2025-10-18T00:00:00.000Z"
+  },
+  "favorite_genre": "adventure",
+  "total_likes": 8,
+  "total_completed": 13,
+  "total_stories_read": 18,
+  "total_reading_time_minutes": 61
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f7f"
+  },
+  "user_id": "USER_0004",
+  "age": 7,
+  "age_range": "5-7 years",
+  "preferred_genres": "fairy tales|adventure|friendship",
+  "preferred_characters": "talking objects|princesses|wizards",
+  "preferred_emotions": "happy|gentle",
+  "preferred_reading_time": "medium",
+  "reading_time_min": 5,
+  "reading_time_max": 7,
+  "stories_per_week": 12,
+  "activity_level": "high",
+  "prefers_illustrations": true,
+  "prefers_interactive_questions": true,
+  "registration_date": {
+    "$date": "2025-06-25T00:00:00.000Z"
+  },
+  "favorite_genre": "fairy tales",
+  "total_likes": 77,
+  "total_completed": 113,
+  "total_stories_read": 136,
+  "total_reading_time_minutes": 757
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f80"
+  },
+  "user_id": "USER_0005",
+  "age": 3,
+  "age_range": "3-5 years",
+  "preferred_genres": "nature|science fiction|mystery",
+  "preferred_characters": "princesses|children|talking objects|superheroes",
+  "preferred_emotions": "happy|inspiring|adventurous",
+  "preferred_reading_time": "short",
+  "reading_time_min": 3,
+  "reading_time_max": 5,
+  "stories_per_week": 8,
+  "activity_level": "medium",
+  "prefers_illustrations": true,
+  "prefers_interactive_questions": true,
+  "registration_date": {
+    "$date": "2025-10-29T00:00:00.000Z"
+  },
+  "favorite_genre": "nature",
+  "total_likes": 8,
+  "total_completed": 9,
+  "total_stories_read": 9,
+  "total_reading_time_minutes": 35
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f81"
+  },
+  "user_id": "USER_0006",
+  "age": 5,
+  "age_range": "3-5 years",
+  "preferred_genres": "friendship|science fiction|fantasy",
+  "preferred_characters": "monsters|knights|superheroes",
+  "preferred_emotions": "curious|heartwarming",
+  "preferred_reading_time": "short",
+  "reading_time_min": 3,
+  "reading_time_max": 5,
+  "stories_per_week": 6,
+  "activity_level": "medium",
+  "prefers_illustrations": true,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-06-25T00:00:00.000Z"
+  },
+  "favorite_genre": "friendship",
+  "total_likes": 59,
+  "total_completed": 72,
+  "total_stories_read": 99,
+  "total_reading_time_minutes": 344
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f82"
+  },
+  "user_id": "USER_0007",
+  "age": 10,
+  "age_range": "9-12 years",
+  "preferred_genres": "mystery|friendship|fantasy|nature",
+  "preferred_characters": "monsters|pirates|unicorns",
+  "preferred_emotions": "happy|mysterious",
+  "preferred_reading_time": "long",
+  "reading_time_min": 8,
+  "reading_time_max": 15,
+  "stories_per_week": 13,
+  "activity_level": "high",
+  "prefers_illustrations": true,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-08-25T00:00:00.000Z"
+  },
+  "favorite_genre": "mystery",
+  "total_likes": 59,
+  "total_completed": 85,
+  "total_stories_read": 105,
+  "total_reading_time_minutes": 1122
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f83"
+  },
+  "user_id": "USER_0008",
+  "age": 9,
+  "age_range": "7-9 years",
+  "preferred_genres": "science fiction|nature|educational|fairy tales",
+  "preferred_characters": "dinosaurs|robots|dragons",
+  "preferred_emotions": "happy|calm|magical",
+  "preferred_reading_time": "short",
+  "reading_time_min": 3,
+  "reading_time_max": 5,
+  "stories_per_week": 14,
+  "activity_level": "high",
+  "prefers_illustrations": true,
+  "prefers_interactive_questions": true,
+  "registration_date": {
+    "$date": "2025-08-03T00:00:00.000Z"
+  },
+  "favorite_genre": "science fiction",
+  "total_likes": 63,
+  "total_completed": 96,
+  "total_stories_read": 120,
+  "total_reading_time_minutes": 415
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f84"
+  },
+  "user_id": "USER_0009",
+  "age": 8,
+  "age_range": "7-9 years",
+  "preferred_genres": "animals|mystery|science fiction|fantasy",
+  "preferred_characters": "talking objects|insects|robots|children",
+  "preferred_emotions": "dramatic|inspiring|adventurous",
+  "preferred_reading_time": "long",
+  "reading_time_min": 8,
+  "reading_time_max": 15,
+  "stories_per_week": 15,
+  "activity_level": "high",
+  "prefers_illustrations": false,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-06-14T00:00:00.000Z"
+  },
+  "favorite_genre": "animals",
+  "total_likes": 77,
+  "total_completed": 111,
+  "total_stories_read": 131,
+  "total_reading_time_minutes": 1406
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f85"
+  },
+  "user_id": "USER_0010",
+  "age": 10,
+  "age_range": "9-12 years",
+  "preferred_genres": "nature|animals|adventure",
+  "preferred_characters": "superheroes|wizards|fairies|dragons",
+  "preferred_emotions": "calm|adventurous",
+  "preferred_reading_time": "short",
+  "reading_time_min": 3,
+  "reading_time_max": 5,
+  "stories_per_week": 15,
+  "activity_level": "high",
+  "prefers_illustrations": true,
+  "prefers_interactive_questions": true,
+  "registration_date": {
+    "$date": "2025-09-11T00:00:00.000Z"
+  },
+  "favorite_genre": "nature",
+  "total_likes": 48,
+  "total_completed": 73,
+  "total_stories_read": 94,
+  "total_reading_time_minutes": 335
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f86"
+  },
+  "user_id": "USER_0011",
+  "age": 11,
+  "age_range": "9-12 years",
+  "preferred_genres": "family|mystery",
+  "preferred_characters": "animals|robots",
+  "preferred_emotions": "silly|curious|inspiring",
+  "preferred_reading_time": "medium",
+  "reading_time_min": 5,
+  "reading_time_max": 7,
+  "stories_per_week": 1,
+  "activity_level": "low",
+  "prefers_illustrations": true,
+  "prefers_interactive_questions": true,
+  "registration_date": {
+    "$date": "2025-07-14T00:00:00.000Z"
+  },
+  "favorite_genre": "family",
+  "total_likes": 11,
+  "total_completed": 16,
+  "total_stories_read": 17,
+  "total_reading_time_minutes": 103
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f87"
+  },
+  "user_id": "USER_0012",
+  "age": 6,
+  "age_range": "5-7 years",
+  "preferred_genres": "educational|family",
+  "preferred_characters": "pirates|superheroes",
+  "preferred_emotions": "inspiring|exciting|happy",
+  "preferred_reading_time": "medium",
+  "reading_time_min": 5,
+  "reading_time_max": 7,
+  "stories_per_week": 11,
+  "activity_level": "high",
+  "prefers_illustrations": false,
+  "prefers_interactive_questions": true,
+  "registration_date": {
+    "$date": "2025-09-08T00:00:00.000Z"
+  },
+  "favorite_genre": "educational",
+  "total_likes": 33,
+  "total_completed": 56,
+  "total_stories_read": 70,
+  "total_reading_time_minutes": 381
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f88"
+  },
+  "user_id": "USER_0013",
+  "age": 10,
+  "age_range": "9-12 years",
+  "preferred_genres": "family|fairy tales|nature",
+  "preferred_characters": "dragons|monsters|robots|wizards",
+  "preferred_emotions": "gentle|brave",
+  "preferred_reading_time": "short",
+  "reading_time_min": 3,
+  "reading_time_max": 5,
+  "stories_per_week": 7,
+  "activity_level": "medium",
+  "prefers_illustrations": true,
+  "prefers_interactive_questions": true,
+  "registration_date": {
+    "$date": "2025-08-21T00:00:00.000Z"
+  },
+  "favorite_genre": "family",
+  "total_likes": 47,
+  "total_completed": 75,
+  "total_stories_read": 86,
+  "total_reading_time_minutes": 312
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f89"
+  },
+  "user_id": "USER_0014",
+  "age": 10,
+  "age_range": "9-12 years",
+  "preferred_genres": "animals|friendship",
+  "preferred_characters": "dinosaurs|sea creatures|animals|knights",
+  "preferred_emotions": "inspiring|funny",
+  "preferred_reading_time": "short",
+  "reading_time_min": 3,
+  "reading_time_max": 5,
+  "stories_per_week": 4,
+  "activity_level": "medium",
+  "prefers_illustrations": false,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-08-13T00:00:00.000Z"
+  },
+  "favorite_genre": "animals",
+  "total_likes": 23,
+  "total_completed": 41,
+  "total_stories_read": 48,
+  "total_reading_time_minutes": 184
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f8a"
+  },
+  "user_id": "USER_0015",
+  "age": 7,
+  "age_range": "5-7 years",
+  "preferred_genres": "animals|friendship",
+  "preferred_characters": "dinosaurs|sea creatures",
+  "preferred_emotions": "exciting|heartwarming|funny",
+  "preferred_reading_time": "long",
+  "reading_time_min": 8,
+  "reading_time_max": 15,
+  "stories_per_week": 3,
+  "activity_level": "low",
+  "prefers_illustrations": false,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-07-30T00:00:00.000Z"
+  },
+  "favorite_genre": "animals",
+  "total_likes": 14,
+  "total_completed": 26,
+  "total_stories_read": 29,
+  "total_reading_time_minutes": 301
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f8b"
+  },
+  "user_id": "USER_0016",
+  "age": 9,
+  "age_range": "7-9 years",
+  "preferred_genres": "fairy tales|mystery",
+  "preferred_characters": "superheroes|wizards",
+  "preferred_emotions": "heartwarming|silly",
+  "preferred_reading_time": "medium",
+  "reading_time_min": 5,
+  "reading_time_max": 7,
+  "stories_per_week": 3,
+  "activity_level": "low",
+  "prefers_illustrations": false,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-07-08T00:00:00.000Z"
+  },
+  "favorite_genre": "fairy tales",
+  "total_likes": 23,
+  "total_completed": 33,
+  "total_stories_read": 39,
+  "total_reading_time_minutes": 219
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f8c"
+  },
+  "user_id": "USER_0017",
+  "age": 7,
+  "age_range": "5-7 years",
+  "preferred_genres": "science fiction|fantasy|nature|adventure",
+  "preferred_characters": "robots|insects|princesses|children",
+  "preferred_emotions": "happy|brave|curious",
+  "preferred_reading_time": "long",
+  "reading_time_min": 8,
+  "reading_time_max": 15,
+  "stories_per_week": 7,
+  "activity_level": "medium",
+  "prefers_illustrations": false,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-08-29T00:00:00.000Z"
+  },
+  "favorite_genre": "science fiction",
+  "total_likes": 27,
+  "total_completed": 47,
+  "total_stories_read": 59,
+  "total_reading_time_minutes": 615
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f8d"
+  },
+  "user_id": "USER_0018",
+  "age": 10,
+  "age_range": "9-12 years",
+  "preferred_genres": "friendship|educational|mystery",
+  "preferred_characters": "robots|knights|unicorns",
+  "preferred_emotions": "silly|uplifting",
+  "preferred_reading_time": "long",
+  "reading_time_min": 8,
+  "reading_time_max": 15,
+  "stories_per_week": 5,
+  "activity_level": "medium",
+  "prefers_illustrations": true,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-08-10T00:00:00.000Z"
+  },
+  "favorite_genre": "friendship",
+  "total_likes": 26,
+  "total_completed": 37,
+  "total_stories_read": 44,
+  "total_reading_time_minutes": 481
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f8e"
+  },
+  "user_id": "USER_0019",
+  "age": 3,
+  "age_range": "3-5 years",
+  "preferred_genres": "friendship|adventure|science fiction|nature",
+  "preferred_characters": "knights|fairies|children|princesses",
+  "preferred_emotions": "exciting|inspiring|adventurous",
+  "preferred_reading_time": "long",
+  "reading_time_min": 8,
+  "reading_time_max": 15,
+  "stories_per_week": 3,
+  "activity_level": "low",
+  "prefers_illustrations": false,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-07-25T00:00:00.000Z"
+  },
+  "favorite_genre": "friendship",
+  "total_likes": 28,
+  "total_completed": 36,
+  "total_stories_read": 45,
+  "total_reading_time_minutes": 473
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f8f"
+  },
+  "user_id": "USER_0020",
+  "age": 4,
+  "age_range": "3-5 years",
+  "preferred_genres": "science fiction|friendship|family|nature",
+  "preferred_characters": "dinosaurs|animals|talking objects",
+  "preferred_emotions": "dramatic|mysterious|curious",
+  "preferred_reading_time": "short",
+  "reading_time_min": 3,
+  "reading_time_max": 5,
+  "stories_per_week": 4,
+  "activity_level": "medium",
+  "prefers_illustrations": true,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-06-30T00:00:00.000Z"
+  },
+  "favorite_genre": "science fiction",
+  "total_likes": 23,
+  "total_completed": 36,
+  "total_stories_read": 50,
+  "total_reading_time_minutes": 166
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f90"
+  },
+  "user_id": "USER_0021",
+  "age": 6,
+  "age_range": "5-7 years",
+  "preferred_genres": "adventure|educational",
+  "preferred_characters": "princesses|insects|fairies|pirates",
+  "preferred_emotions": "magical|calm|gentle",
+  "preferred_reading_time": "long",
+  "reading_time_min": 8,
+  "reading_time_max": 15,
+  "stories_per_week": 3,
+  "activity_level": "low",
+  "prefers_illustrations": true,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-05-21T00:00:00.000Z"
+  },
+  "favorite_genre": "adventure",
+  "total_likes": 38,
+  "total_completed": 61,
+  "total_stories_read": 71,
+  "total_reading_time_minutes": 760
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f91"
+  },
+  "user_id": "USER_0022",
+  "age": 5,
+  "age_range": "3-5 years",
+  "preferred_genres": "family|animals|fairy tales|mystery",
+  "preferred_characters": "knights|sea creatures|unicorns|talking objects",
+  "preferred_emotions": "happy|inspiring",
+  "preferred_reading_time": "long",
+  "reading_time_min": 8,
+  "reading_time_max": 15,
+  "stories_per_week": 8,
+  "activity_level": "medium",
+  "prefers_illustrations": false,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-07-25T00:00:00.000Z"
+  },
+  "favorite_genre": "family",
+  "total_likes": 43,
+  "total_completed": 66,
+  "total_stories_read": 82,
+  "total_reading_time_minutes": 852
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f92"
+  },
+  "user_id": "USER_0023",
+  "age": 12,
+  "age_range": "9-12 years",
+  "preferred_genres": "friendship|mystery",
+  "preferred_characters": "children|robots|pirates|wizards",
+  "preferred_emotions": "exciting|funny",
+  "preferred_reading_time": "short",
+  "reading_time_min": 3,
+  "reading_time_max": 5,
+  "stories_per_week": 13,
+  "activity_level": "high",
+  "prefers_illustrations": false,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-06-22T00:00:00.000Z"
+  },
+  "favorite_genre": "friendship",
+  "total_likes": 71,
+  "total_completed": 94,
+  "total_stories_read": 127,
+  "total_reading_time_minutes": 419
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f93"
+  },
+  "user_id": "USER_0024",
+  "age": 9,
+  "age_range": "7-9 years",
+  "preferred_genres": "friendship|nature",
+  "preferred_characters": "dinosaurs|talking objects|sea creatures",
+  "preferred_emotions": "mysterious|calm",
+  "preferred_reading_time": "short",
+  "reading_time_min": 3,
+  "reading_time_max": 5,
+  "stories_per_week": 4,
+  "activity_level": "medium",
+  "prefers_illustrations": false,
+  "prefers_interactive_questions": true,
+  "registration_date": {
+    "$date": "2025-05-27T00:00:00.000Z"
+  },
+  "favorite_genre": "friendship",
+  "total_likes": 40,
+  "total_completed": 58,
+  "total_stories_read": 76,
+  "total_reading_time_minutes": 257
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f94"
+  },
+  "user_id": "USER_0025",
+  "age": 10,
+  "age_range": "9-12 years",
+  "preferred_genres": "animals|fairy tales|mystery|educational",
+  "preferred_characters": "unicorns|pirates|talking objects|dragons",
+  "preferred_emotions": "funny|magical",
+  "preferred_reading_time": "short",
+  "reading_time_min": 3,
+  "reading_time_max": 5,
+  "stories_per_week": 14,
+  "activity_level": "high",
+  "prefers_illustrations": true,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-08-03T00:00:00.000Z"
+  },
+  "favorite_genre": "animals",
+  "total_likes": 72,
+  "total_completed": 110,
+  "total_stories_read": 130,
+  "total_reading_time_minutes": 476
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f95"
+  },
+  "user_id": "USER_0026",
+  "age": 9,
+  "age_range": "7-9 years",
+  "preferred_genres": "fairy tales|family|friendship|mystery",
+  "preferred_characters": "dinosaurs|knights|wizards",
+  "preferred_emotions": "dramatic|funny|uplifting",
+  "preferred_reading_time": "long",
+  "reading_time_min": 8,
+  "reading_time_max": 15,
+  "stories_per_week": 11,
+  "activity_level": "high",
+  "prefers_illustrations": false,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-08-24T00:00:00.000Z"
+  },
+  "favorite_genre": "fairy tales",
+  "total_likes": 41,
+  "total_completed": 65,
+  "total_stories_read": 82,
+  "total_reading_time_minutes": 846
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f96"
+  },
+  "user_id": "USER_0027",
+  "age": 5,
+  "age_range": "3-5 years",
+  "preferred_genres": "adventure|mystery|family",
+  "preferred_characters": "princesses|dinosaurs",
+  "preferred_emotions": "silly|heartwarming",
+  "preferred_reading_time": "medium",
+  "reading_time_min": 5,
+  "reading_time_max": 7,
+  "stories_per_week": 10,
+  "activity_level": "high",
+  "prefers_illustrations": true,
+  "prefers_interactive_questions": true,
+  "registration_date": {
+    "$date": "2025-07-19T00:00:00.000Z"
+  },
+  "favorite_genre": "adventure",
+  "total_likes": 55,
+  "total_completed": 86,
+  "total_stories_read": 113,
+  "total_reading_time_minutes": 596
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f97"
+  },
+  "user_id": "USER_0028",
+  "age": 5,
+  "age_range": "3-5 years",
+  "preferred_genres": "adventure|mystery|family",
+  "preferred_characters": "dinosaurs|unicorns",
+  "preferred_emotions": "silly|inspiring|heartwarming",
+  "preferred_reading_time": "medium",
+  "reading_time_min": 5,
+  "reading_time_max": 7,
+  "stories_per_week": 3,
+  "activity_level": "low",
+  "prefers_illustrations": true,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-10-02T00:00:00.000Z"
+  },
+  "favorite_genre": "adventure",
+  "total_likes": 8,
+  "total_completed": 6,
+  "total_stories_read": 11,
+  "total_reading_time_minutes": 54
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f98"
+  },
+  "user_id": "USER_0029",
+  "age": 7,
+  "age_range": "5-7 years",
+  "preferred_genres": "adventure|nature|fantasy",
+  "preferred_characters": "fairies|unicorns|princesses|superheroes",
+  "preferred_emotions": "dramatic|mysterious|funny",
+  "preferred_reading_time": "long",
+  "reading_time_min": 8,
+  "reading_time_max": 15,
+  "stories_per_week": 1,
+  "activity_level": "low",
+  "prefers_illustrations": true,
+  "prefers_interactive_questions": true,
+  "registration_date": {
+    "$date": "2025-06-17T00:00:00.000Z"
+  },
+  "favorite_genre": "adventure",
+  "total_likes": 10,
+  "total_completed": 12,
+  "total_stories_read": 13,
+  "total_reading_time_minutes": 140
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f99"
+  },
+  "user_id": "USER_0030",
+  "age": 7,
+  "age_range": "5-7 years",
+  "preferred_genres": "family|adventure",
+  "preferred_characters": "sea creatures|fairies|wizards|children",
+  "preferred_emotions": "dramatic|exciting|funny",
+  "preferred_reading_time": "short",
+  "reading_time_min": 3,
+  "reading_time_max": 5,
+  "stories_per_week": 14,
+  "activity_level": "high",
+  "prefers_illustrations": false,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-07-22T00:00:00.000Z"
+  },
+  "favorite_genre": "family",
+  "total_likes": 72,
+  "total_completed": 102,
+  "total_stories_read": 135,
+  "total_reading_time_minutes": 464
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f9a"
+  },
+  "user_id": "USER_0031",
+  "age": 7,
+  "age_range": "5-7 years",
+  "preferred_genres": "adventure|friendship",
+  "preferred_characters": "children|insects",
+  "preferred_emotions": "brave|exciting|mysterious",
+  "preferred_reading_time": "medium",
+  "reading_time_min": 5,
+  "reading_time_max": 7,
+  "stories_per_week": 2,
+  "activity_level": "low",
+  "prefers_illustrations": true,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-07-17T00:00:00.000Z"
+  },
+  "favorite_genre": "adventure",
+  "total_likes": 11,
+  "total_completed": 15,
+  "total_stories_read": 21,
+  "total_reading_time_minutes": 101
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f9b"
+  },
+  "user_id": "USER_0032",
+  "age": 6,
+  "age_range": "5-7 years",
+  "preferred_genres": "fantasy|animals",
+  "preferred_characters": "knights|princesses|robots",
+  "preferred_emotions": "calm|funny",
+  "preferred_reading_time": "short",
+  "reading_time_min": 3,
+  "reading_time_max": 5,
+  "stories_per_week": 11,
+  "activity_level": "high",
+  "prefers_illustrations": false,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-05-23T00:00:00.000Z"
+  },
+  "favorite_genre": "fantasy",
+  "total_likes": 68,
+  "total_completed": 98,
+  "total_stories_read": 129,
+  "total_reading_time_minutes": 436
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f9c"
+  },
+  "user_id": "USER_0033",
+  "age": 11,
+  "age_range": "9-12 years",
+  "preferred_genres": "fairy tales|science fiction|fantasy",
+  "preferred_characters": "princesses|superheroes",
+  "preferred_emotions": "calm|funny|brave",
+  "preferred_reading_time": "short",
+  "reading_time_min": 3,
+  "reading_time_max": 5,
+  "stories_per_week": 7,
+  "activity_level": "medium",
+  "prefers_illustrations": true,
+  "prefers_interactive_questions": true,
+  "registration_date": {
+    "$date": "2025-11-04T00:00:00.000Z"
+  },
+  "favorite_genre": "fairy tales",
+  "total_likes": 5,
+  "total_completed": 6,
+  "total_stories_read": 7,
+  "total_reading_time_minutes": 21
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f9d"
+  },
+  "user_id": "USER_0034",
+  "age": 9,
+  "age_range": "7-9 years",
+  "preferred_genres": "animals|educational",
+  "preferred_characters": "robots|fairies|monsters",
+  "preferred_emotions": "inspiring|dramatic|curious",
+  "preferred_reading_time": "medium",
+  "reading_time_min": 5,
+  "reading_time_max": 7,
+  "stories_per_week": 7,
+  "activity_level": "medium",
+  "prefers_illustrations": false,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-07-28T00:00:00.000Z"
+  },
+  "favorite_genre": "animals",
+  "total_likes": 55,
+  "total_completed": 76,
+  "total_stories_read": 99,
+  "total_reading_time_minutes": 527
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f9e"
+  },
+  "user_id": "USER_0035",
+  "age": 11,
+  "age_range": "9-12 years",
+  "preferred_genres": "science fiction|educational|adventure",
+  "preferred_characters": "pirates|insects|fairies|children",
+  "preferred_emotions": "adventurous|mysterious|exciting",
+  "preferred_reading_time": "short",
+  "reading_time_min": 3,
+  "reading_time_max": 5,
+  "stories_per_week": 6,
+  "activity_level": "medium",
+  "prefers_illustrations": false,
+  "prefers_interactive_questions": true,
+  "registration_date": {
+    "$date": "2025-09-22T00:00:00.000Z"
+  },
+  "favorite_genre": "science fiction",
+  "total_likes": 15,
+  "total_completed": 26,
+  "total_stories_read": 31,
+  "total_reading_time_minutes": 113
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4f9f"
+  },
+  "user_id": "USER_0036",
+  "age": 12,
+  "age_range": "9-12 years",
+  "preferred_genres": "friendship|nature",
+  "preferred_characters": "knights|unicorns",
+  "preferred_emotions": "exciting|magical",
+  "preferred_reading_time": "long",
+  "reading_time_min": 8,
+  "reading_time_max": 15,
+  "stories_per_week": 15,
+  "activity_level": "high",
+  "prefers_illustrations": true,
+  "prefers_interactive_questions": true,
+  "registration_date": {
+    "$date": "2025-08-03T00:00:00.000Z"
+  },
+  "favorite_genre": "friendship",
+  "total_likes": 68,
+  "total_completed": 109,
+  "total_stories_read": 141,
+  "total_reading_time_minutes": 1494
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4fa0"
+  },
+  "user_id": "USER_0037",
+  "age": 12,
+  "age_range": "9-12 years",
+  "preferred_genres": "science fiction|fantasy|fairy tales",
+  "preferred_characters": "unicorns|pirates|fairies|dinosaurs",
+  "preferred_emotions": "curious|heartwarming|gentle",
+  "preferred_reading_time": "long",
+  "reading_time_min": 8,
+  "reading_time_max": 15,
+  "stories_per_week": 5,
+  "activity_level": "medium",
+  "prefers_illustrations": false,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-09-25T00:00:00.000Z"
+  },
+  "favorite_genre": "science fiction",
+  "total_likes": 15,
+  "total_completed": 17,
+  "total_stories_read": 25,
+  "total_reading_time_minutes": 211
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4fa1"
+  },
+  "user_id": "USER_0038",
+  "age": 9,
+  "age_range": "7-9 years",
+  "preferred_genres": "fairy tales|mystery|adventure|animals",
+  "preferred_characters": "princesses|dinosaurs",
+  "preferred_emotions": "silly|mysterious|dramatic",
+  "preferred_reading_time": "long",
+  "reading_time_min": 8,
+  "reading_time_max": 15,
+  "stories_per_week": 4,
+  "activity_level": "medium",
+  "prefers_illustrations": false,
+  "prefers_interactive_questions": true,
+  "registration_date": {
+    "$date": "2025-08-21T00:00:00.000Z"
+  },
+  "favorite_genre": "fairy tales",
+  "total_likes": 21,
+  "total_completed": 32,
+  "total_stories_read": 40,
+  "total_reading_time_minutes": 439
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4fa2"
+  },
+  "user_id": "USER_0039",
+  "age": 5,
+  "age_range": "3-5 years",
+  "preferred_genres": "mystery|educational|fairy tales",
+  "preferred_characters": "superheroes|insects|wizards",
+  "preferred_emotions": "gentle|magical",
+  "preferred_reading_time": "medium",
+  "reading_time_min": 5,
+  "reading_time_max": 7,
+  "stories_per_week": 2,
+  "activity_level": "low",
+  "prefers_illustrations": false,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-05-23T00:00:00.000Z"
+  },
+  "favorite_genre": "mystery",
+  "total_likes": 19,
+  "total_completed": 31,
+  "total_stories_read": 38,
+  "total_reading_time_minutes": 201
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4fa3"
+  },
+  "user_id": "USER_0040",
+  "age": 10,
+  "age_range": "9-12 years",
+  "preferred_genres": "mystery|family|animals|fantasy",
+  "preferred_characters": "pirates|unicorns",
+  "preferred_emotions": "adventurous|gentle|mysterious",
+  "preferred_reading_time": "long",
+  "reading_time_min": 8,
+  "reading_time_max": 15,
+  "stories_per_week": 12,
+  "activity_level": "high",
+  "prefers_illustrations": false,
+  "prefers_interactive_questions": true,
+  "registration_date": {
+    "$date": "2025-09-22T00:00:00.000Z"
+  },
+  "favorite_genre": "mystery",
+  "total_likes": 38,
+  "total_completed": 53,
+  "total_stories_read": 66,
+  "total_reading_time_minutes": 674
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4fa4"
+  },
+  "user_id": "USER_0041",
+  "age": 6,
+  "age_range": "5-7 years",
+  "preferred_genres": "fantasy|educational",
+  "preferred_characters": "wizards|insects|dinosaurs|pirates",
+  "preferred_emotions": "heartwarming|silly",
+  "preferred_reading_time": "long",
+  "reading_time_min": 8,
+  "reading_time_max": 15,
+  "stories_per_week": 8,
+  "activity_level": "medium",
+  "prefers_illustrations": true,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-07-03T00:00:00.000Z"
+  },
+  "favorite_genre": "fantasy",
+  "total_likes": 55,
+  "total_completed": 83,
+  "total_stories_read": 95,
+  "total_reading_time_minutes": 1025
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4fa5"
+  },
+  "user_id": "USER_0042",
+  "age": 11,
+  "age_range": "9-12 years",
+  "preferred_genres": "fantasy|friendship|animals|fairy tales",
+  "preferred_characters": "unicorns|knights",
+  "preferred_emotions": "gentle|inspiring",
+  "preferred_reading_time": "medium",
+  "reading_time_min": 5,
+  "reading_time_max": 7,
+  "stories_per_week": 4,
+  "activity_level": "medium",
+  "prefers_illustrations": false,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-09-05T00:00:00.000Z"
+  },
+  "favorite_genre": "fantasy",
+  "total_likes": 19,
+  "total_completed": 28,
+  "total_stories_read": 29,
+  "total_reading_time_minutes": 166
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4fa6"
+  },
+  "user_id": "USER_0043",
+  "age": 4,
+  "age_range": "3-5 years",
+  "preferred_genres": "fantasy|educational|family|nature",
+  "preferred_characters": "animals|insects",
+  "preferred_emotions": "calm|heartwarming",
+  "preferred_reading_time": "short",
+  "reading_time_min": 3,
+  "reading_time_max": 5,
+  "stories_per_week": 7,
+  "activity_level": "medium",
+  "prefers_illustrations": true,
+  "prefers_interactive_questions": true,
+  "registration_date": {
+    "$date": "2025-11-01T00:00:00.000Z"
+  },
+  "favorite_genre": "fantasy",
+  "total_likes": 4,
+  "total_completed": 3,
+  "total_stories_read": 6,
+  "total_reading_time_minutes": 20
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4fa7"
+  },
+  "user_id": "USER_0044",
+  "age": 10,
+  "age_range": "9-12 years",
+  "preferred_genres": "educational|adventure|animals",
+  "preferred_characters": "dinosaurs|superheroes",
+  "preferred_emotions": "silly|magical|calm",
+  "preferred_reading_time": "medium",
+  "reading_time_min": 5,
+  "reading_time_max": 7,
+  "stories_per_week": 3,
+  "activity_level": "low",
+  "prefers_illustrations": false,
+  "prefers_interactive_questions": true,
+  "registration_date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "favorite_genre": "educational",
+  "total_likes": 18,
+  "total_completed": 33,
+  "total_stories_read": 42,
+  "total_reading_time_minutes": 229
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4fa8"
+  },
+  "user_id": "USER_0045",
+  "age": 8,
+  "age_range": "7-9 years",
+  "preferred_genres": "nature|educational|mystery",
+  "preferred_characters": "princesses|fairies|dragons|pirates",
+  "preferred_emotions": "curious|brave|inspiring",
+  "preferred_reading_time": "medium",
+  "reading_time_min": 5,
+  "reading_time_max": 7,
+  "stories_per_week": 6,
+  "activity_level": "medium",
+  "prefers_illustrations": false,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-09-08T00:00:00.000Z"
+  },
+  "favorite_genre": "nature",
+  "total_likes": 24,
+  "total_completed": 39,
+  "total_stories_read": 50,
+  "total_reading_time_minutes": 261
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4fa9"
+  },
+  "user_id": "USER_0046",
+  "age": 6,
+  "age_range": "5-7 years",
+  "preferred_genres": "adventure|fairy tales",
+  "preferred_characters": "unicorns|talking objects|children",
+  "preferred_emotions": "dramatic|magical|heartwarming",
+  "preferred_reading_time": "short",
+  "reading_time_min": 3,
+  "reading_time_max": 5,
+  "stories_per_week": 12,
+  "activity_level": "high",
+  "prefers_illustrations": false,
+  "prefers_interactive_questions": true,
+  "registration_date": {
+    "$date": "2025-08-29T00:00:00.000Z"
+  },
+  "favorite_genre": "adventure",
+  "total_likes": 42,
+  "total_completed": 71,
+  "total_stories_read": 90,
+  "total_reading_time_minutes": 314
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4faa"
+  },
+  "user_id": "USER_0047",
+  "age": 11,
+  "age_range": "9-12 years",
+  "preferred_genres": "family|mystery|adventure",
+  "preferred_characters": "dragons|robots|monsters|wizards",
+  "preferred_emotions": "exciting|adventurous|magical",
+  "preferred_reading_time": "medium",
+  "reading_time_min": 5,
+  "reading_time_max": 7,
+  "stories_per_week": 5,
+  "activity_level": "medium",
+  "prefers_illustrations": false,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-10-30T00:00:00.000Z"
+  },
+  "favorite_genre": "family",
+  "total_likes": 4,
+  "total_completed": 4,
+  "total_stories_read": 4,
+  "total_reading_time_minutes": 24
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4fab"
+  },
+  "user_id": "USER_0048",
+  "age": 3,
+  "age_range": "3-5 years",
+  "preferred_genres": "animals|nature|adventure",
+  "preferred_characters": "knights|monsters|children|superheroes",
+  "preferred_emotions": "brave|magical",
+  "preferred_reading_time": "long",
+  "reading_time_min": 8,
+  "reading_time_max": 15,
+  "stories_per_week": 12,
+  "activity_level": "high",
+  "prefers_illustrations": false,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-05-19T00:00:00.000Z"
+  },
+  "favorite_genre": "animals",
+  "total_likes": 63,
+  "total_completed": 91,
+  "total_stories_read": 127,
+  "total_reading_time_minutes": 1248
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4fac"
+  },
+  "user_id": "USER_0049",
+  "age": 5,
+  "age_range": "3-5 years",
+  "preferred_genres": "animals|science fiction|fairy tales",
+  "preferred_characters": "superheroes|children",
+  "preferred_emotions": "magical|silly|heartwarming",
+  "preferred_reading_time": "medium",
+  "reading_time_min": 5,
+  "reading_time_max": 7,
+  "stories_per_week": 2,
+  "activity_level": "low",
+  "prefers_illustrations": false,
+  "prefers_interactive_questions": true,
+  "registration_date": {
+    "$date": "2025-08-15T00:00:00.000Z"
+  },
+  "favorite_genre": "animals",
+  "total_likes": 20,
+  "total_completed": 26,
+  "total_stories_read": 30,
+  "total_reading_time_minutes": 168
+},
+{
+  "_id": {
+    "$oid": "690f93cc881aeee005eb4fad"
+  },
+  "user_id": "USER_0050",
+  "age": 9,
+  "age_range": "7-9 years",
+  "preferred_genres": "educational|nature",
+  "preferred_characters": "fairies|animals|talking objects|dragons",
+  "preferred_emotions": "funny|silly",
+  "preferred_reading_time": "short",
+  "reading_time_min": 3,
+  "reading_time_max": 5,
+  "stories_per_week": 8,
+  "activity_level": "medium",
+  "prefers_illustrations": true,
+  "prefers_interactive_questions": false,
+  "registration_date": {
+    "$date": "2025-10-08T00:00:00.000Z"
+  },
+  "favorite_genre": "educational",
+  "total_likes": 17,
+  "total_completed": 23,
+  "total_stories_read": 30,
+  "total_reading_time_minutes": 103
+}]
